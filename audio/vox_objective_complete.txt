@@ -1,0 +1,7 @@
+vox_objective_complete.mp3 — Alpha fire-team radio call: "Objective complete. All checkpoints secured."
+
+Synthesized speech, not a recorded/Freesound asset.
+- Voice: Microsoft Edge neural TTS, en-US-RogerNeural (pitch -24 Hz, rate +34%),
+  generated locally with the open-source `edge-tts` client.
+- Radio treatment: ffmpeg — 540-2050 Hz comms bandpass, compression + drive/soft-clip,
+  light bitcrush, steady static bed + hiss, mic squelch clicks on key-up/key-down.
